@@ -78,7 +78,8 @@ namespace inheritance
 
 ```
 ## OUTPUT:
-![](./exp7.png)
+
+![image](https://github.com/Sachin-vlr/19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance/assets/113497666/a2c6be33-ed31-42ff-818b-8abff337181a)
 
 ## RESULT:
 Thus, the C# program to implement hierarchical inheritance is verified and executed successfully.
